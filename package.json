@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.3",
+    "@truffle/hdwallet-provider": "^2.1.10",
+    "node-darwin-arm64": "^18.9.0",
+    "uws": "^200.0.0"
+  }
+}
